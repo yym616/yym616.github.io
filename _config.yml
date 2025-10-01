@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "MyTitle"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "MyName."
+name                     : "Yumin Yeom."
 description              : "MyDescription"
 url                      : "https://yym616.github.io"
 baseurl                  : "yym616/yym616.github.io"
