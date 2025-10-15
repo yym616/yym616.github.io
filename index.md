@@ -17,7 +17,7 @@ intro:
 
 ## Title
 염유민
-인공지능학과
+인공지능학과\n
 Body
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
