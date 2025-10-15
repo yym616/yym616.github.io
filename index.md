@@ -16,7 +16,8 @@ intro:
 {% include feature_row id="intro" type="center" %}
 
 ## Title
-
+염유민
+인공지능학과
 Body
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
